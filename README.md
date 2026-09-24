@@ -1,6 +1,6 @@
-## Hi there, I'm Efe Kunttaş! 👋
+## Hello, I'm Efe Kunttaş! 
 
-🎓 Software Engineering student  
+🎓 Software Engineering student in 3 years
 💻 Interested in backend development, databases, and algorithms  
 🚀 Continuously building projects to improve my skills  
 
@@ -9,14 +9,13 @@
 ## 🛠️ Technologies & Tools
 
 * **Languages:** Python, C++, SQL  
-* **Web & Databases:** Flask, SQLite, Selenium  
+* **Web & Databases:** Flask, SQLite
 * **Tools:** Git, GitHub, VS Code  
 
 ---
 
 ## 📂 Projects
 
-Some of the projects I have worked on:
 
 * **Job Board Data Pipeline (Python & SQLite)** - Web scraping, data storage, and analysis  
 * **Secure Flask Web Application** - Backend development and user data management  
@@ -29,7 +28,6 @@ Some of the projects I have worked on:
 
 * Build real-world software projects and improve problem-solving skills  
 * Gain hands-on experience in backend development and cybersecurity  
-* Secure a long-term software engineering internship  
 
 ---
 
