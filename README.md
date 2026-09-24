@@ -1,7 +1,7 @@
 ## Hello, I'm Efe Kunttaş! 
 
 🎓 Software Engineering student in 3 years
-💻 Interested in backend development, databases, and algorithms  
+, Interested in backend development, databases, and algorithms  
 🚀 Continuously building projects to improve my skills  
 
 ---
