@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I'm Efe Kunttaş! 👋
 
-<!--
-**EfeKu7/EfeKu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering student in 3 years
+💻 Interested in backend development, databases, and algorithms
+🚀 Continuously building projects to improve my skills
+---
 
-Here are some ideas to get you started:
+🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ **Languages:** Python, C++, SQL
+  **Web & Databases:** Flask, SQLite, Selenium
+  **Tools:** Git, GitHub, VS Code
+---
+
+### 📂 Projects
+
+Some of the projects I have worked on:
+
+* **Job Board Data Pipeline (Python & SQLite)** - Web scraping, data storage, and analysis
+* **Secure Flask Web Application** - Backend development and user data management
+* **C++ Algorithms** - Data structures and problem-solving exercises
+---
+ 📫 Contact
+
+* **GitHub:** [@EfeKu7](https://github.com/EfeKu7)
+* **LinkedIn:** [Add your LinkedIn link here]
